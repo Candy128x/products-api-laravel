@@ -3,7 +3,7 @@
 
 ---
 ## Postman API's
-<kbd><img src="/readme_docs/imgs/product_curd_api.gif></img></kbd>
+<kbd><img src="/readme_docs/imgs/product_curd_api.gif"></img></kbd>
 
 ---
 ## Project Setup
