@@ -3,11 +3,11 @@
 
 ---
 ## Postman API's
-<kbd><img src="readme_docs/imgs/product_curd_api.gif></img></kbd>
+<kbd><img src="/readme_docs/imgs/product_curd_api.gif></img></kbd>
 
 ---
 ## Project Setup
-- Click [link](dev_setup_mode.md) to view project setup step
+- Click [link](dev_setup_note.md) to view project setup step
 
 ---
 ## Product CURD API Documents
